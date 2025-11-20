@@ -1,0 +1,5 @@
+{
+  "name": "ReflectAI - Smart Journal",
+  "description": "A mobile-first journal application that uses Gemini AI to analyze your entries, tracking mood trends and providing personalized insights.",
+  "requestFramePermissions": []
+}
